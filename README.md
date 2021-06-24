@@ -7,8 +7,8 @@ You can setup Python liblaries using `bash setup.sh`. Note that you need a MuJoC
 
 ## How to run
 
-The expert demonstration data used in the experiment is stored in the buffers folder. 
-You can use the following command to directly execute the odirl program.
+The expert demonstration data used in the experiment is prepared [here](https://drive.google.com/file/d/1r3G8bD3CRxM8usSZ3QeqTA_1ptYm-2Sg/view?usp=sharing), please download and unzip to `./buffers`. 
+Then you can use the following command to directly execute the odirl program.
 
 ```bash
 # Example: run on PointMaze envs, GPU
